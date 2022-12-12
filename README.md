@@ -2,4 +2,4 @@
 
 QR reader + attendance system with Python and OpenCV !
 
-[![Watch the video](https://img.youtube.com/vi/w56SgT7ntwk/0.jpg)](https://www.youtube.com/watch?v=w56SgT7ntwk)
+[![Watch the video](https://img.youtube.com/vi/5eahBYvDJjA/0.jpg)](https://www.youtube.com/watch?v=5eahBYvDJjA)
